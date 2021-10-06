@@ -1,21 +1,4 @@
 # ResponsiveVantage
 TEAM NAME: ALPHA101
 
-TEAM LEADER NAME		: UTKARSH SHARMA
-TEAM LEADER EMAIL		: NAM.UTKARSH@GMAIL.COM 
-TEAM LEADER PHONE NUMBER	: 9953318990  
 
-TEAM MEMBER NAME		: DIVYA 
-TEAM MEMBER EMAIL		: dkdivya1426@gmail.com
-TEAM MEMBER PHONE NUMBER	: --
-
-TEAM MEMBER NAME		: CHAITANYA CHOPRA
-TEAM MEMBER EMAIL		: CHATTY3CHOPRA@GMAIL.COM
-TEAM MEMBER PHONE NUMBER	:9871490047
-
--------------------------------------------------------------------------------
-
-PRODUCT NAME			: MuzikMama 
-WEBSITE LINK			: netlify.com
-GITHUB LINK			: https://github.com/utkzas/ResponsiveVantage/edit/main/README.md
-PRODUCT DESCRIPTION		: A Shameless Music Advertisement
